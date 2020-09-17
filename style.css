@@ -1,0 +1,38 @@
+body {
+    background:  #e3f2fd;
+}
+
+.inputform {
+    width: 14rem;
+    float: left;
+}
+
+.searchbtn {
+    background: blue;
+    border: white;
+}
+
+.searchbtn:hover {
+    background: orangered;
+}
+
+.clearbtn {
+    background: blue;
+}
+
+.clearbtn:hover {
+    background: orangered;
+}
+
+.citybtnbg {
+    background: blue;
+}
+
+.m-1 {
+    background: blue;
+    border: white;
+}
+
+.m-1:hover {
+    background: orangered;
+}
